@@ -5,7 +5,7 @@ Clashcoin is designed from the ground up for scalable instant transactions and f
 Clashcoin is designed from the ground up for scalable instant transactions and fast transaction ERC20 Token.
 the Clashcoin smart contract token on Ethereum platform.It's an ERC20 Token which follows the ERC20 Token Standard and implements all standard methods.
 
-## Specifications of PoSToken
+## Specifications of Clashcoin
 * **Name**: Clashcoin
 * **Symbol**: clash
 * **Decimals**: 0
