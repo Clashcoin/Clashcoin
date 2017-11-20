@@ -15,4 +15,4 @@ the Clashcoin smart contract token on Ethereum platform.It's an ERC20 Token whic
 * **Distribution**: Free Airdrop
 * **Contract Address**: 0xEe9704a1D61aA2C1401e2303Ac7E1f81c29ED860
 ## Resource
-**[Website](https://clashcoin.co)** | **[Whitepaper](https://clashcoin/Whitepaper.pdf)** | **[Twitter](https://twitter/clashcoin_clash)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2430683.0)** | **[Slack](https://clashcoin.slack.com)** | **[Telegram](https://t.me/clashcoin)**
+**[Website](https://clashcoin.co)** | **[Whitepaper](https://clashcoin/Whitepaper.pdf)** | **[Twitter](https://twitter.com/clashcoin_clash)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2430683.0)** | **[Slack](https://clashcoin.slack.com)** | **[Telegram](https://t.me/clashcoin)**
