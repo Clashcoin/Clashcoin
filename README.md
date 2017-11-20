@@ -9,7 +9,7 @@ the Clashcoin smart contract token on Ethereum platform.It's an ERC20 Token whic
 * **Name**: Clashcoin
 * **Symbol**: clash
 * **Decimals**: 0
-* **Standard**: ERC20 & PoSTokenStandard
+* **Standard**: ERC20 
 * **Platform**: Ethereum
 * **Total Supply**: 180000000 clash
 * **Distribution**: Free Airdrop
